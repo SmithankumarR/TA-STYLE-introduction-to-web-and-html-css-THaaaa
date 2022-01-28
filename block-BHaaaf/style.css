@@ -1,0 +1,23 @@
+body{
+    background-color: burlywood;
+    margin:0 auto;
+    padding:5px;
+
+}
+.heading{
+    color:darkblue;
+    font-size: 30px;
+    text-align: center;
+
+}
+#unique{
+    color:darkgreen;
+    font-size: 20px;
+    text-align: left;
+    
+}
+#place{
+    color: coral;
+    font-size: 20px;
+    text-align: left;
+}
