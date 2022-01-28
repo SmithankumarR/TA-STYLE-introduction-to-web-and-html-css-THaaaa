@@ -4,15 +4,20 @@ body{
     padding:5px;
 
 }
-h1{
+.heading{
     color:darkblue;
     font-size: 30px;
     text-align: center;
 
 }
-p{
+#unique{
     color:darkgreen;
     font-size: 20px;
     text-align: left;
     
+}
+#place{
+    color: coral;
+    font-size: 20px;
+    text-align: left;
 }
