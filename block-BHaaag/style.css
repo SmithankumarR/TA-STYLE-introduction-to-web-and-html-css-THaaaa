@@ -1,0 +1,18 @@
+body{
+    background-color:#22396A ;
+    color: #ffff;
+    font-size: 19px;
+    margin:20px;
+}
+
+h2{
+    color:#42A367 ;
+    font-weight: 500;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+    padding:20px;
+
+}
